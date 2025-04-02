@@ -15,3 +15,35 @@ Stack trace:
 #2 [internal function]: IC_EPC_Tracking->fatal()
 #3 {main}
   thrown in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[02-Apr-2025 03:55:48 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 2097152 bytes) in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-list.php on line 63
+[02-Apr-2025 03:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[02-Apr-2025 03:55:58 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-list.php on line 63
+[02-Apr-2025 03:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[02-Apr-2025 03:56:08 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates/themes/theme-classic-list.php on line 63
+[02-Apr-2025 03:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117
+[02-Apr-2025 03:56:09 UTC] PHP Fatal error:  Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/blocks/block-edit.php on line 43
+[02-Apr-2025 03:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ic_products_count() in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php:117
+Stack trace:
+#0 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(551): IC_EPC_Tracking->setup_data()
+#1 /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php(481): IC_EPC_Tracking->send_paused_checkin(Array, true)
+#2 [internal function]: IC_EPC_Tracking->fatal()
+#3 {main}
+  thrown in /workspaces/ux221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/tracking.php on line 117

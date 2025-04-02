@@ -47,16 +47,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/cupcakes/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/chocolate-brownie/
         </loc>
     </url>
@@ -73,6 +63,11 @@
     <url>
         <loc>
             http://localhost:8000/products/assorted-biscuits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cupcakes/
         </loc>
     </url>
     <url>

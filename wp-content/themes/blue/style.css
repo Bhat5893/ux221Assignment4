@@ -7,10 +7,10 @@ Template:       hello-elementor
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
-header a{
+ a {
     color: #4F998A;
 }
-body{
-    color: #ff009f;
+body {
+    color: #ee009b;
     background-color: rgba(255, 227, 232, 0.37);
 }
